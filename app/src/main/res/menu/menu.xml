@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/opcion1"
+        android:icon="@drawable/facebook"
+        android:title="@string/Facebook" />
+    <item
+        android:id="@+id/opcion2"
+        android:icon="@drawable/twitter"
+        android:title="@string/twitter" />
+    <item
+        android:id="@+id/opcion3"
+        android:icon="@drawable/reddit"
+        android:title="@string/reddit" />
+</menu>
